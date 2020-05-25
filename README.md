@@ -1,8 +1,3 @@
-# Yusuf's Portfolio
-## Link to portfolio
-http://localhost:52330/index.html
-## Link to Github
-https://github.com/yusuf-mohamud
 ## Purpose
 Generally, the purpsoe of a portfolio is so that is acts as a companion for a resume. It is a place where developers can showcase their work to potential partners or workers. That's what the purpose of this portfolio was. 
 ## Functionality/ Features
