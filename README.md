@@ -13,10 +13,10 @@ The HTML document included sections which had separate id's in order to style th
 Since in the HTML document the each sections had different id's and div classes, it was easier to style them separately. Almost everything was styled in order to fit a certain theme. 
 
 ## Rough Idea for each page
-[Home page](./img/homepage.jpg)
-[About page](./img/about.jpg)
-[Work/Study History page](./img/history.jpg)
-[Contact](./img/contact.jpg)
+1. [Home page](./img/homepage.jpg)
+2. [About page](./img/about.jpg)
+3. [Work/Study History page](./img/history.jpg)
+4. [Contact](./img/contact.jpg)
 
 ## Sitemap
 [image](./img/sitemap.jpg)
@@ -25,6 +25,3 @@ The target audience of this portfolio were people who were in need of a web deve
 
 ## Tech Stack
 HTML and CSS were used to create the portfolio website. The deployment platform which was used was Netlify.
-
-
-
