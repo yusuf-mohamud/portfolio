@@ -1,6 +1,6 @@
 # Yusuf's Portfolio
 ## Link to portfolio
-https://yusufmohamed.netlify.app
+https://yusufmohamud.netlify.app
 ## Link to Github
 https://github.com/yusuf-mohamud/portfolio
 ## Purpose
