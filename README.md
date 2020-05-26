@@ -1,6 +1,6 @@
 # Yusuf's Portfolio
 ## Link to portfolio
-https://optimistic-beaver-fc17d1.netlify.app/history.html
+https://yusufmohamed.netlify.app
 ## Link to Github
 https://github.com/yusuf-mohamud/portfolio
 ## Purpose
